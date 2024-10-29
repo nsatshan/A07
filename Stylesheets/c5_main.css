@@ -22,6 +22,9 @@ html {
 	background-color: white; 
 	color: black;
 }
+ html, body{
+	 color: black; 
+ }
 a:focus, a:hover {
 	font-style: italic;
 }
