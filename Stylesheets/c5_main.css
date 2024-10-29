@@ -19,11 +19,11 @@ body {
 }
 
 html {
-	background-color: white; 
+    background-color: white;
 	color: black;
 }
  html, body{
-	 background-color: white;
+     background-color: white;
 	 color: black; 
  }
 a:focus, a:hover {
