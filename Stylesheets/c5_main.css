@@ -20,6 +20,7 @@ body {
 
 html {
 	background-color: white; 
+	font: black;
 }
 a:focus, a:hover {
 	font-style: italic;
