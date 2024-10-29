@@ -23,6 +23,7 @@ html {
 	color: black;
 }
  html, body{
+	 background-color: white;
 	 color: black; 
  }
 a:focus, a:hover {
