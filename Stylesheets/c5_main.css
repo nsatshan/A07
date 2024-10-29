@@ -19,7 +19,7 @@ body {
 }
 
 html {
-	color: white; 
+	background-color: white; 
 }
 a:focus, a:hover {
 	font-style: italic;
