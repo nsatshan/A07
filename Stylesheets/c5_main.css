@@ -70,7 +70,12 @@ main {
 	padding-left: 30px;
 	
 }
-
+main h1 {
+	font-size: 150%;
+	padding: .3em 0;
+	border-top:3px solid #931420;
+	border-bottom:3px solid #931420;
+}
 main h2 {
 	color: var(--global-color-1);
 	font-size: 130%;
